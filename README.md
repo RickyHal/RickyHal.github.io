@@ -1,2 +1,1 @@
-# RickyHal.github.io
-Personnal page
+# This is a personal page.
